@@ -28,6 +28,15 @@ The wiki article also links to interesting topics like anti metabolites and herb
   * can cause kidney stones, from memory: depending on where the crystals end up they might cause tissue damage, seemingly it's connected to fibromyalgia somehow
   * list: https://oxalate.org/
   * https://old.reddit.com/r/ScientificNutrition/comments/s6f1u8/bioavailability_of_soluble_oxalate_from_tea_and/
+  * ### oxalic acid
+* oxalic acid - binds to calcium https://www.medicalnewstoday.com/articles/oxalic-acid#health-risks
+** seemingly causes all kinds of ailments if not properly metabolized https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10530622/
+** Cooking methods vs. oxolates https://pubmed.ncbi.nlm.nih.gov/15826055/
+*** cooking 30-80% reduction - no elimination tho
+*** steaming almost no reduction
+*** baking no reduction 
+** body deposits oxolates in the tissues, when you go on a diet, the fat might dump the oxolates back into the blood stream https://www.healthline.com/nutrition/oxalate-dumping
+
 
 * phytic acid - binds to minerals - calcium, magnesium, iron, copper, and zinc
 ** Calcium deficiency: depression, anxiety, and delirium
