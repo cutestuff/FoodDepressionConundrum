@@ -12,17 +12,18 @@ The wiki article also links to interesting topics like anti metabolites and herb
     * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807301/ - metabolic problems and low serum amylase
 
 * Avidin (raw eggs) - inhibits the absorbtion of biotin (vitamin b7) 
-** biotin deficiency: depression and anxiety
+ * biotin deficiency: depression and anxiety
   
 * Glucosinolates - Binds to iodine
-** iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration
+ * iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration
 
 * flavonoids, (polyphenolic compounds), tannins - bind to iron and zinc
-** Iron deficiency: depression and anxiety
-** Zinc deficiency: depression and anxiety
+ * Iron deficiency: depression and anxiety
+ * Zinc deficiency: depression and anxiety
 
 * lectins - nuts and seeds
-** gluten, glutinin - inhibit the absorbtion of vitamin B12
+ * gluten, glutinin - inhibit the absorbtion of vitamin B12
+ * from Memory: even if you don't have a problem with gluten, they open the pores in the gut wall and let other anti-nutrients through. That's what can cause auto-immune reactions, when the immune system finds things in the blood that aren't meant to be there.
 
 ### oxalic acid
 * oxalic acid - binds to calcium and iron https://www.medicalnewstoday.com/articles/oxalic-acid#health-risks
@@ -38,22 +39,22 @@ The wiki article also links to interesting topics like anti metabolites and herb
 
 
 * phytic acid - binds to minerals - calcium, magnesium, iron, copper, and zinc
-** Calcium deficiency: depression, anxiety, and delirium
-** Magnesium deficiency: apathy and lack of emotion
-** Iron deficiency: depression and anxiety
-** Copper deficiency: learning impairments, poor memory and emotional and behavioral problems
+ * Calcium deficiency: depression, anxiety, and delirium
+ * Magnesium deficiency: apathy and lack of emotion
+ * Iron deficiency: depression and anxiety
+ * Copper deficiency: learning impairments, poor memory and emotional and behavioral problems
 
 * Protease inhibitors
-** alpha-1 antitrypsin deficiency - connected to depression, anxiety
-** pepsin deficiency - connected to nutrient deficiencies in B12 and iron 
-** human pancreatic lipase suppression - connected to low omega 3 fatty acids - Deficiency may also pose a risk for schizophrenia, characterized by cognitive decline, delusions, and social isolation
+ * alpha-1 antitrypsin deficiency - connected to depression, anxiety
+ * pepsin deficiency - connected to nutrient deficiencies in B12 and iron 
+ * human pancreatic lipase suppression - connected to low omega 3 fatty acids - Deficiency may also pose a risk for schizophrenia, characterized by cognitive decline, delusions, and social isolation
 
 * Thiocyanate - Binds to Iodine, converts to cyanide - Broccoli, Brussels sprouts, Cabbage, Canola, Cauliflower, Flax, Kale
-** iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration, goiter
-** https://en.wikipedia.org/wiki/Thiocyanate
+ * iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration, goiter
+ * https://en.wikipedia.org/wiki/Thiocyanate
 
 # overconsumption of certain nutrients
-** Calcium can inhibit iron absorbtion
+ * Calcium can inhibit iron absorbtion
 
 ##########To Do############
 Find the papers that lead to these findings
