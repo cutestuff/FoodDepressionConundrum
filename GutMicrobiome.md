@@ -1,5 +1,7 @@
 
 # The Gut Microbiome
+* I've taken pro-biotics in the past, but from memory they never contained something for oxolates. Seemingly a few of the Lactobacilus do neutralize some oxolate, but not very efficient.
+* Oxalobacter formigenes https://en.wikipedia.org/wiki/Oxalobacter_formigenes
 
 # The Gut Mycobiome
 * https://www.sciencedirect.com/science/article/pii/S1438422121000199
