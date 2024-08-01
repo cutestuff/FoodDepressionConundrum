@@ -24,11 +24,12 @@ The wiki article also links to interesting topics like anti metabolites and herb
 * lectins - nuts and seeds
 ** gluten, glutinin - inhibit the absorbtion of vitamin B12
 
-* oxalic acid - binds to calcium 
+### oxalic acid
+* oxalic acid - binds to calcium and iron
   * can cause kidney stones, from memory: depending on where the crystals end up they might cause tissue damage, seemingly it's connected to fibromyalgia somehow
   * list: https://oxalate.org/
   * https://old.reddit.com/r/ScientificNutrition/comments/s6f1u8/bioavailability_of_soluble_oxalate_from_tea_and/
-  * ### oxalic acid
+
 * oxalic acid - binds to calcium https://www.medicalnewstoday.com/articles/oxalic-acid#health-risks
 ** seemingly causes all kinds of ailments if not properly metabolized https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10530622/
 ** Cooking methods vs. oxolates https://pubmed.ncbi.nlm.nih.gov/15826055/
