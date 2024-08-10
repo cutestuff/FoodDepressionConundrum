@@ -4,4 +4,5 @@
 * Soft cooked Potato - suicidal ideation - haven't tried since 2022
 * Salad - Paranoia and suicidal ideation, sometimes joint pain
 * Probiotic for oxalates - no paranoia, no suicidal ideation - WORKED! Maybe I can go back to ketogenic diet
+  * Preparation was L-Glutamine for a month and silicea once a day
 * Apples / Grapefruit once a day for a week - eventually depression
