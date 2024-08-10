@@ -15,7 +15,7 @@ The wiki article also links to interesting topics like anti metabolites and herb
  * biotin deficiency: depression and anxiety
   
 * Glucosinolates - Binds to iodine
- * iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration
+  * iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration
 
 * flavonoids, (polyphenolic compounds), tannins - bind to iron and zinc
  * Iron deficiency: depression and anxiety
