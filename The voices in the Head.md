@@ -19,3 +19,7 @@ occasionally I'd journal something like: ate clementine - and 4 days later I'd w
 On days where I'd eat a lot of fruit, I might have stressed more, because I was getting them from the place where all the poor ppl go to get old food from the supermarket.
 On those days I'd be stressed and bored a lot. Maybe there was a connection back then. 
 Or maybe the food just wasn't good food. 
+
+# play a game
+Play something like tetris, candy crush or do something else with your hands like pottering or needlework, as your hands are busy, your mind goes and keeps retrieving the trauma. Eventually you can teach your mind to only retrieve when doing the gaming. In time you can reduce the time you play and thus the time the brain is bringing up the trauma. Sounds stupid, but works...
+https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=ptsd+tetris&btnG=
