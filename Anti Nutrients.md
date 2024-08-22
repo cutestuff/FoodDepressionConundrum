@@ -45,12 +45,12 @@ The wiki article also links to interesting topics like anti metabolites and herb
  * Copper deficiency: learning impairments, poor memory and emotional and behavioral problems
 
 * Protease inhibitors
- * alpha-1 antitrypsin deficiency - connected to depression, anxiety
- * pepsin deficiency - connected to nutrient deficiencies in B12 and iron 
- * human pancreatic lipase suppression - connected to low omega 3 fatty acids - Deficiency may also pose a risk for schizophrenia, characterized by cognitive decline, delusions, and social isolation - https://www.mdpi.com/2072-6643/16/15/2566 - https://en.wikipedia.org/wiki/Lipase_inhibitors - reduction strategies https://fppn.biomedcentral.com/articles/10.1186/s43014-020-0020-5
+  * alpha-1 antitrypsin deficiency - connected to depression, anxiety
+  * pepsin deficiency - connected to nutrient deficiencies in B12 and iron 
+  * human pancreatic lipase suppression - connected to low omega 3 fatty acids - Deficiency may also pose a risk for schizophrenia, characterized by cognitive decline, delusions, and social isolation - https://www.mdpi.com/2072-6643/16/15/2566 - https://en.wikipedia.org/wiki/Lipase_inhibitors - reduction strategies https://fppn.biomedcentral.com/articles/10.1186/s43014-020-0020-5
 
 * Thiocyanate - Binds to Iodine, converts to cyanide - Broccoli, Brussels sprouts, Cabbage, Canola, Cauliflower, Flax, Kale
- * iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration, goiter
+  * iodine deficiency: anxiety and depression, Fatigue and low energy levels, Unexplained weight gain, Slow heart rate, Intolerance to cold temperatures, Fatigued and aching muscles, Dry and or coarse skin, Puffy face, Hair loss, Constipation, Problems with concentration, goiter
  * https://en.wikipedia.org/wiki/Thiocyanate
 
 # overconsumption of certain nutrients
