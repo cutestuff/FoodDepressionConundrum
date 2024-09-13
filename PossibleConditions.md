@@ -13,6 +13,8 @@
   * https://www.thecandidadiet.com/foodstoeat.htm candida likes sugar
   * It's probably "just" there, trying to root it out is said to be pointless and we've got a limited choice with anti-fungals
 * SIBO - Small intestinal bacerial overgrowth - can cause malabsorbtion and depression as a consequence of said malabsorbtion
+  * Stomach acid too low - betaine-HCL might help
+  * oposite might be bile acid malabsorption, where the stomach acid doesn't get absorbed and sterilizes the gut - antacids might be a solution here, but I don't know anything about this.
 
 * Other Illnesses
   * Asthma https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8502834/
