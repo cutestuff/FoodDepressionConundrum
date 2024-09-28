@@ -25,10 +25,12 @@ September 2017, I'm sick with a severe case of the flu and decide on a whim to t
 # 2018
 My close friends declare me crazy and stop talking to me when I told them, food is causing my depression. For financial reasons I prioritize meat over vegetables and the more I leave out the more sane I feel.
 
-# today
+# 2023
 Ever since 2018 I'm trying to figure out what it is. I eat meat for a few days, I'm mentally fine. I eat somethign plant-based, I go back into depression and suicidal ideation. 
 Today I'm signed up to become a specialist for allergies and food intolerance, in the hopes to find something that works. 
 
+# 2024 
+It's mid 2024, I've found Dan Vas' Story on how he got poisoned, his symptoms matched with my own in some aspects and his solution was to prepare the gut with silicea and L-Glutamine and then introduce certain probiotica in stomach-acid-resistant capsules. That worked for me to some degree, and I'm able to eat green salad and low oxolate green veggies without getting paranoia. Currently looking for other probiotics, that might help with other anti-nutrients.
 
 
 
