@@ -47,3 +47,6 @@
 
 ## Psychology
 * https://neurosciencenews.com/childhood-loneliness-psychosis-25891/
+
+## Politics
+* senate hearing on carnivore diet, Michaila Peterson https://www.youtube.com/watch?v=Om4pEWnOTL8
