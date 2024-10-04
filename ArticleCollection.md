@@ -50,3 +50,4 @@
 
 ## Politics
 * senate hearing on carnivore diet, Michaila Peterson https://www.youtube.com/watch?v=Om4pEWnOTL8
+* Methane production, mostly shipping and oil industry, not beef https://www.iea.org/reports/global-methane-tracker-2024/key-findings
