@@ -2,6 +2,9 @@
 # Mental effects
 * Anti-Nutrients from plant based food https://github.com/cutestuff/FoodDepressionConundrum/blob/main/Anti%20Nutrients
   * Bind to minerals, proteins, vitamins and thus might lead to deficiencies which then lead to mental effects.
+* Artificial food dyes
+  * red 40, usa, causes cancer https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10502305/
+  * Behavioural Changes in Kids - https://www.nbcnews.com/news/us-news/artificial-food-dyes-may-cause-behavior-problems-bill-aims-warn-parent-rcna5989 
 * Chocolate seeminlgy can make you moody: https://www.psychologytoday.com/us/blog/your-brain-food/201011/chocolate-the-good-the-bad-and-the-angry
   * Chocolate and heavy metals: https://www.consumerreports.org/health/food-safety/lead-and-cadmium-in-dark-chocolate-a8480295550/
   * Personal experience: over 2 days I'd consume 160 grams of chocolate, 4 days later I think, ppl at work are comming after me
