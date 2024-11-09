@@ -47,6 +47,7 @@
 
 ## Psychology
 * https://neurosciencenews.com/childhood-loneliness-psychosis-25891/
+* https://www.ucl.ac.uk/news/2011/dec/maltreated-children-show-same-pattern-brain-activity-combat-soldiers
 
 ## Politics
 * senate hearing on carnivore diet, Michaila Peterson https://www.youtube.com/watch?v=Om4pEWnOTL8
