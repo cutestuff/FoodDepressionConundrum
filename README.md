@@ -32,5 +32,8 @@ Today I'm signed up to become a specialist for allergies and food intolerance, i
 # 2024 
 It's mid 2024, I've found Dan Vas' Story on how he got poisoned, his symptoms matched with my own in some aspects and his solution was to prepare the gut with silicea and L-Glutamine and then introduce certain probiotica in stomach-acid-resistant capsules. That worked for me to some degree, and I'm able to eat green salad and low oxolate green veggies without getting paranoia. Currently looking for other probiotics, that might help with other anti-nutrients.
 
+# support me with a koffee or buy one of my items
+- https://ko-fi.com/s/9bc4de384f
+
 
 
