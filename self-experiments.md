@@ -6,3 +6,4 @@
 * Probiotic for oxalates - no paranoia, no suicidal ideation - WORKED! Maybe I can go back to ketogenic diet
   * Preparation was L-Glutamine for a month and silicea once a day
 * Apples / Grapefruit once a day for a week - eventually depression
+* Gelatin - Back in 2007, I was told to take it for joint pain, within half a day all the smaller joint pains in the feet had been gone, bigger ones like in the knees took about a month to resolve.
