@@ -13,4 +13,7 @@ Personal experience
 - Coffee - Migraines - seems like there is a threshold at about 10-15 Milligrams - within a few hours
 - Pig-feet-broth - doesn't seem to do anything, but tastes amazing
 - Bone-broth - doesn't seem to do anything
-- Bone-broth with red pepper - after a few days stupid amount of pain in my ancles - went away after a few more days 
+- Bone-broth with red pepper - after a few days stupid amount of pain in my ancles - went away after a few more days
+
+# Articles and Links
+- Fish oil doesn't do anything https://www.youtube.com/watch?v=tX7xzzIhQgw
