@@ -20,6 +20,7 @@
 * Herbicides
   * https://www.scientificamerican.com/article/high-rates-of-suicide-depression-linked-to-farmers-use-of-pesticides/
   * https://news.ycombinator.com/item?id=39383739 Chlormequat in food and urine from adults in the United States from 2017 to 2023 | Hacker News (ycombinator.com)
+  * https://en.wikipedia.org/wiki/Paraquat Paraquat still used in USA and other places in the world, not used anymore in EU, China and a few other countries
 * Rodenticides
 * Fungicides
 * Insecticides
