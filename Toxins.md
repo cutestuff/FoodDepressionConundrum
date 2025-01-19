@@ -40,6 +40,7 @@
 * Mercury Poisoning like with sardines, accumulation through swordfish
   * https://www.healthline.com/health/mad-hatter-disease#symptoms
   * Dan Vas got poisoned and talks about the experience on youtube. https://www.youtube.com/watch?v=grOgjha7ifE&t=21s&pp=ygUHZGFuIHZhcw%3D%3D he's got some leads which might help me, something about how to restore the gut lining if that's my problem
+* Nickel https://en.wikipedia.org/wiki/Nickel#Biological_role
 
 # not directly linked with mental health but otherwise toxic
 * Arsenic Poisoning
