@@ -6,11 +6,13 @@
 * some annecdotes about food and dementia https://news.ycombinator.com/item?id=37413566
 
 ## Brain-Gut-Connection
-* https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
+* https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression
 * https://www.livescience.com/64098-bacteria-brain-microbiome.html
+* https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
+* https://www.urmc.rochester.edu/news/publications/neuroscience/can-ketones-enhance-cognitive-function-and-protect-brain-networks
 * Studying the link between the gut and mental health is personal for this scientist https://text.npr.org/1186092825
 * https://stantonmigraineprotocol.com/2021/12/06/migraine-treatment-and-prevention-by-the-stanton-migraine-protocol/
-* https://www.urmc.rochester.edu/news/publications/neuroscience/can-ketones-enhance-cognitive-function-and-protect-brain-networks
+
 
 ## Diets
 * https://meat.health/carnivore-diet-symptoms-and-cures/
