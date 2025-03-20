@@ -43,6 +43,7 @@
   * https://www.healthline.com/health/mad-hatter-disease#symptoms
   * Dan Vas got poisoned and talks about the experience on youtube. https://www.youtube.com/watch?v=grOgjha7ifE&t=21s&pp=ygUHZGFuIHZhcw%3D%3D he's got some leads which might help me, something about how to restore the gut lining if that's my problem
 * Nickel https://en.wikipedia.org/wiki/Nickel#Biological_role
+![-5817781645271478248_121](https://github.com/user-attachments/assets/7c22a28b-d5b7-4384-a71a-f1b20180be05)
 
 # not directly linked with mental health but otherwise toxic
 * Arsenic Poisoning
