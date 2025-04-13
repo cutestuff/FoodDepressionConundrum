@@ -1,6 +1,5 @@
-# Plants can't scream, they can't run, most of them can't bite, so they use chemicals for defense.
-
-My dad argued, that cooking destroys all the lectins and other chemicals that are detrimental to us. For some reason back in the day it didn't come to my mind, why we don't cook amanita muscaria. Or why ppl with peanut allergies still react to the protein even when it's cooked.
+# Anti-Nutrients
+They've been selling you these chemicals as superfoods, but if you lack the enzymes they may be doing more damage than good
 
 # Types
 https://en.wikipedia.org/wiki/Antinutrient
