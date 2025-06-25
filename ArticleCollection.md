@@ -19,8 +19,10 @@
 
 ## Regeneration
 * Gums and Collagen - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7570157/
-  * As far as I understood, calcium needs a scaffold to attack to bones and teeth - collagen, as in gelatine, can seemingly support the regeneration of the gums, as well as some limited regeneration of the teeth
+  * As far as I understood, calcium needs a scaffold to attach to bones and teeth - collagen, as in gelatine, can seemingly support the regeneration of the gums, as well as some limited regeneration of the teeth
   * Personal Note: I used to have knee pain in my twenties when I still ate a standard diet, when I took collagen it took about a month until the knee pain went away
+  * Teaspoon in the morning was enough
+  * Overdosing on Collagen might create some problems - might wanna read up on this
 
 
 ## Low Level Inflammation might be responsible for all kinds of ailments
