@@ -46,6 +46,9 @@
 ![-5817781645271478248_121](https://github.com/user-attachments/assets/7c22a28b-d5b7-4384-a71a-f1b20180be05)
 
 # not directly linked with mental health but otherwise toxic
+* lactose intolerance
+  * This girl cured her lactose intolerance by eating milk powder every day for two weeks
+  * https://www.youtube.com/watch?v=USFUC2OYc88
 * Arsenic Poisoning
   * in Sea food https://sites.dartmouth.edu/arsenicandyou/arsenic-in-seafood-and-seaweed/ 
   * in white rice?! (I didn't know that yet!) https://www.healthline.com/nutrition/arsenic-in-rice#TOC_TITLE_HDR_2
