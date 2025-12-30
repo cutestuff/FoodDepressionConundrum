@@ -19,7 +19,10 @@
 * industrially raised pork - nightmares about not being able to escape - throughout the rest of the day I feel fine with it
 
 # Supplementation
-* there can be too much of anything, so I stopped using them. 
+* there can be too much of anything, so I stopped using them.
+* lactose intolerance
+  * This girl cured her lactose intolerance by eating milk powder every day for two weeks
+  * https://www.youtube.com/watch?v=USFUC2OYc88
 
 # Bacteria and yeast in food
 * I've tried kefir, sauerkraut, natto, as well as other soy ferments and combucha in the past, they didn't seem to do anything. At least not within a week.
